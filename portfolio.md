@@ -25,16 +25,17 @@ description: A Sample of photo and video work done by me.
 
 **Cam-Op**
  + *TV Series Class "Off Campus"* (2024) - Episodic TV
- + *Un Poco de Mexico* (2025) - Short Film
+ + *[Un Poco de Mexico](https://www.youtube.com/watch?v=pp5kpagMKlA)* (2025) - Short Film
  + *Those Eyes* (2025) - Short Film
 
 **Sound**
  + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024, Day Three Boom Op) - Short Film
  + *[I Should Have F-ing Listened](https://www.youtube.com/watch?v=tmx2EL5j9-g)* (2024, Sound Mixer) - Short Film
- + *Faker* (2025, Post Sound Design & Mix) - Short Film
+ + *[Faker](https://www.youtube.com/watch?v=XWmjHGr7nao)* (2025, Post Sound Design & Mix) - Short Film
 
  **Production Assistant**
  + *[Cowtown Rodeo: Cowboy Channel](https://www.cowboychannelplus.com/show/966)* (2024) - Live Broadcast
+ + *Cowtown Rodeo: Cowboy Channel* (2025) - Live Broadcast
  + *[Standard Steel X Nippon Steel](https://youtu.be/R5kyxz1uEq4?si=bfvhHtnWDuDA1PAg)* (2024) - Advertisement
  + *USGA Women's Open X Ally Bank* (2024) - Advertisement
  + *[NJ Laborer's Union LiUNA!](https://www.instagram.com/p/C7h1t3lgApj/)* (2024) - Advertisement
