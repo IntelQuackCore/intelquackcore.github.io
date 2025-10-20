@@ -7,11 +7,11 @@ feature_image: images/Aislopthumb2.png
 tags: [AI, personal]
 ---
 
-When I wrote my original AI article in The Triangle about how chatbots would rip away our collective humanity, I was just taking stock of how I saw AI like ChatGPT already being used to subvert education, work and learning. With that article, my only goal was to call out what I saw currently happening, today in the moment. Looking back on that article even just a few months later, I will say that everything I warned of has only gotten much worse.
-
-Since that article, OpenAI has unleashed what can only be described as a fire hose of “slop” onto the internet. On September 30, 2025, [OpenAI launched the Sora app](https://openai.com/index/sora-2/), and with it the Sora 2 video generation model. The Sora app is set up to be a TikTok style app exclusively for AI slop videos. 
+When I wrote my [original AI article](https://www.thetriangle.org/opinion/chatgpt-is-a-clear-and-present-danger/) in The Triangle about how chatbots would rip away our collective humanity, I was just taking stock of how I saw AI like ChatGPT already being used to subvert education, work and learning. With that article, my only goal was to call out what I saw currently happening, today in the moment. Looking back on that article even just a few months later, I will say that everything I warned of has only gotten much worse.
 
 <!--more-->
+
+Since that article, OpenAI has unleashed what can only be described as a fire hose of “slop” onto the internet. On September 30, 2025, [OpenAI launched the Sora app](https://openai.com/index/sora-2/), and with it the Sora 2 video generation model. The Sora app is set up to be a TikTok style app exclusively for AI slop videos. 
 
 The videos however, did not stay contained to the Sora app for long. The watermarks were quickly removed, and a torrent of videos of historical figures [saying nonsense](https://www.instagram.com/reel/DP2DD_mksCe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) was unleashed onto Instagram, TikTok, and most concerning, Facebook. I say most concerning in regard to Facebook because while most people in my generation have the background knowledge from years on the internet to not trust random clips as fact, the older audience on Facebook has been falling for these clips constantly. For example, [this clip](https://www.instagram.com/p/DPqI7-sjeIU/) of John Lennon wearing a hat with a McDonald’s logo on it in an interview would easily fool most people I know that are my parents age (60) or older.
 
