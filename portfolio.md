@@ -12,14 +12,15 @@ description: A Sample of photo and video work done by me.
 # Crew Work:
 
 **DP** 
-+ *Lost Time* (2024, All Days) - Short Film
++ *Lost Time* (2024) - Short Film
 + *[That's All - Waao](https://www.youtube.com/watch?v=LXKLg4VYLeQ)* (2024, All Days) - Music Video
++ *[America’s ever-growing pro soccer pipeline](https://youtu.be/MbZ26nChXbk?si=x1vHhtnD3tRG1Niq)* (2025) - Philly Inquirer News Story
 
 **1st AC**
  + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024) - Short Film
  + *[Plain Sailing Weather](https://www.youtube.com/watch?v=MauyWK1eim0)* (2024) - Short Film
  + *Frozen Bodies* (2024, Pick Up Day Only) - Short Film
- + *Abandominium* (2024) - Short Film
+ + *[Abandominium](https://youtu.be/F31pDUERbak?si=c6DIucNobbauE0zc)* (2024) - Short Film
  + *Connection* (2025) - Short Film
  + *Far From the Apple Tree* (2025) - Short Film
 
@@ -35,7 +36,7 @@ description: A Sample of photo and video work done by me.
 
  **Production Assistant**
  + *[Cowtown Rodeo: Cowboy Channel](https://www.cowboychannelplus.com/show/966)* (2024) - Live Broadcast
- + *Cowtown Rodeo: Cowboy Channel* (2025) - Live Broadcast
+ + *[Cowtown Rodeo: Cowboy Channel](https://www.cowboychannelplus.com/show/966)* (2025) - Live Broadcast
  + *[Standard Steel X Nippon Steel](https://youtu.be/R5kyxz1uEq4?si=bfvhHtnWDuDA1PAg)* (2024) - Advertisement
  + *USGA Women's Open X Ally Bank* (2024) - Advertisement
  + *[NJ Laborer's Union LiUNA!](https://www.instagram.com/p/C7h1t3lgApj/)* (2024) - Advertisement
