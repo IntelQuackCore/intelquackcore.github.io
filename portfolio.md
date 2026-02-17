@@ -23,6 +23,7 @@ description: A Sample of photo and video work done by me.
  + *[Abandominium](https://youtu.be/F31pDUERbak?si=c6DIucNobbauE0zc)* (2024) - Short Film
  + *Connection* (2025) - Short Film
  + *Far From the Apple Tree* (2025) - Short Film
+ + *C-SPAN 250th US Navy Penn event* (2025) - Broadcast
 
 **Cam-Op**
  + *TV Series Class "Off Campus"* (2024) - Episodic TV
@@ -35,6 +36,7 @@ description: A Sample of photo and video work done by me.
  + *[Faker](https://www.youtube.com/watch?v=XWmjHGr7nao)* (2025, Post Sound Design & Mix) - Short Film
 
  **Production Assistant**
+ + *PJM Interconnection Control Room* (2026) - Advertisement
  + *[Cowtown Rodeo: Cowboy Channel](https://www.cowboychannelplus.com/show/966)* (2024) - Live Broadcast
  + *[Cowtown Rodeo: Cowboy Channel](https://www.cowboychannelplus.com/show/966)* (2025) - Live Broadcast
  + *[Standard Steel X Nippon Steel](https://youtu.be/R5kyxz1uEq4?si=bfvhHtnWDuDA1PAg)* (2024) - Advertisement
