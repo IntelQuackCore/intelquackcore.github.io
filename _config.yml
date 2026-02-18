@@ -31,13 +31,11 @@ navigation:
   - text: Home
     url: /
   - text: Photo Portfolio
-    url: /rxportfolio
+    url: https://quackcore.darkroom.com/
   - text: Video Portfolio
     url: /portfolio
   - text: Linktree
     url: https://linktr.ee/quackcore
-  - text: Print Shop
-    url: https://quackcore.darkroom.com/
   - text: Archives
     url: /tags
 
