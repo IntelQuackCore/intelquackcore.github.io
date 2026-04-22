@@ -9,6 +9,8 @@ description: A Sample of photo and video work done by me.
 ---
 **Sam Gregg** is a Director of Photography and 1st AC local to Philadelphia. In addition to experience with modern cinema camera systems from RED, ARRI, Sony, Panasonic, and Canon, I also have experience with film still and 8mm cameras, 1980s camcorders and vintage and modern broadcast equipment. I have worked both on narrative sets as well as in the role of a video journalist at The Philadelphia Inquirer and The Triangle. [List of modern and vintage gear I own is attached.](https://docs.google.com/document/d/1uJ9pmbqwla07XqOVKpPNCc3UcMvHipev543l-ObF4Yg/edit?usp=sharing) I have experience as a rental technician for production companies and rental houses. If you have any questions about my work, equipment, or would like to work together, please reach out to me via email: **sam@quackcore.com**.
 
+{% include image_caption.html imageurl="/images/thechewing.jpg" title="The Chewing - Dir. Grayson Di Rienzo" caption="The Chewing - Dir. Grayson Di Rienzo." %}
+
 # Crew Work:
 
 **DP** 
