@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Corporate consolidation, how companies ate themselves sick"
+title: "How corporate consolidation leads to an illusion of customer choice"
 description: "how products keep going from bad to worse for the end user"
 date: 2026-01-28
 feature_image: images/corpobiz.jpg
