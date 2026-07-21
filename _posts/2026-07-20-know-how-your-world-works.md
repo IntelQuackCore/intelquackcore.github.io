@@ -1,0 +1,27 @@
+---
+layout: post
+title: "You should know how the world physically works"
+description: "why you need to be curious and learn about your world"
+date: 2026-07-20
+feature_image: images/howtheworld.jpg
+tags: [opinion, personal, TheTriangle]
+---
+*This article was originally published in [The Triangle](https://www.thetriangle.org/article/you-should-know-how-the-world-works)*
+
+People who know me will say that I have a lot of “random facts” or “lore” about seemingly arbitrary things. While this is true from the outside, I have a core philosophy about the way I interact with the world that drives this curiosity. The core drive behind this mindset is that I want to know how the objects I rely on everyday work. What is it that makes a toaster toast? I believe everyone should figure out what technology is essential to their lives, and learn about how it works, its origins and who makes it. 
+
+<!--more-->
+
+An example of this, is that I know the basics of how a refrigerator, dishwasher, toaster and coffeemaker work. I cannot explain every part, every chemical that makes up the refrigerant or exactly what heating coils make up my electric oven. However, I do know enough that if any of my essential appliances break, I can at least start from a place of basic understanding. I have fixed my dishwasher, washing machine and dryer within the last year, all because I took the time to teach myself a basic understanding of their mechanics. 
+
+Knowing how the objects you take for granted work at a basic level can only help to serve you in life. In the age of the internet and wide access to information, there is no excuse to not understand the world around you. You can learn more about how your car works and how to fix it today than at any other point in history. There is no possible downside to knowing more than you might right now. You can also protect yourself from people who might take advantage of your lack of knowledge on a subject. If you ever go to an auto shop, computer repair shop, or have an appliance repairman come, by knowing how those items work at a basic level, you can better protect your wallet and make decisions about how to proceed. 
+
+This idea of knowledge allowing repairs ties into my next point. If you know how the world works, you empower yourself. You can be more self-reliant, and able to diagnose problems and fix them. There will be times that you need a professional’s help, but you will save yourself money, time and frustration in many situations by trying to figure it out yourself first before asking for help. The satisfaction that comes from fixing something is its own reward in my experience. It also inspires pride in ownership, stops waste from unnecessary replacement and teaches valuable life skills I can guarantee you will use again. 
+
+I encourage everyone reading this to not only learn more about the world around you but also to better equip yourself to meet it head-on. Going forward, keep the technology and objects that you rely on working. Invest in a few basic quality tools. Everyone on earth should own a good screwdriver and bits, a hammer, an adjustable crescent wrench and a nice pair of pliers. Another tool I rely on, and a nice item to have at your disposal, is a multitool. While not a replacement for my full toolkit, it lets me fix problems as they come up. Only two brands of multitools are worth your time in my opinion, and those are made by Leatherman and Victorinox. 
+
+{% include image_caption.html imageurl="/images/rebar.jpg" title="Leatherman Rebar" caption="Leatherman Rebar" %}
+
+Founded by [Tim Leatherman](https://youtu.be/rvCgGgokH_E?si=gDOKYt-TVBhFxkO5), they are still the best choice today in multitools. They have a 25-year warranty and will last a lifetime. I recommend the Leatherman “[Rebar](https://www.leatherman.com/rebar-8.html)" for $100, which is available with either a knife or scissors if you do not feel ok carrying a blade. If a knife is important to you, the Leatherman “[Wave+](https://www.leatherman.com/products/wave)” for $130 has one-hand access to a knife on the side, and a screwdriver with swappable bits. If the price is too high, secondhand Leatherman tools can go for as low as $20 on [eBay](https://www.ebay.com/sch/i.html?_nkw=leatherman+multi-tool&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=leatherman+rebar+multi-tool&_osacat=0) and still have a lot of life left. Avoid knockoffs; they are poor imitations, and even a used Leatherman will last longer. I find pliers to be essential, but if you want just a knife and screwdriver, a good old Swiss army knife is also a great buy at around $45 for my favorite model, “[The Super Tinker](https://www.victorinox.com/en-US/Products/Swiss-Army-Knife%E2%84%A2-and-Tools/Essentials/Super-Tinker/p/1.4703)”, or $34 for the base “[Tinker](https://www.victorinox.com/en-US/Products/Swiss-Army-Knife%E2%84%A2-and-Tools/Essentials/Tinker/p/1.4603)”, if you are ok with missing scissors and package hook. 
+
+Knowing how the world works around you and how to repair it is as essential a skill as knowing how to walk and talk. Equip yourself with tools and knowledge so you can rely on yourself the same way you rely on your refrigerator and toaster daily to fulfill their function. You will serve yourself, your wallet and your community by being curious and learning about the objects that you rely on in life.
