@@ -17,6 +17,7 @@ description: A Sample of photo and video work done by me.
 + *Lost Time* (2024) - Short Film
 + *[That's All - Waao](https://www.youtube.com/watch?v=LXKLg4VYLeQ)* (2024, All Days) - Music Video
 + *[America’s ever-growing pro soccer pipeline](https://youtu.be/MbZ26nChXbk?si=x1vHhtnD3tRG1Niq)* (2025) - Philadelphia Inquirer Story
++ *[How Kensington Soccer Club sets up kids for future success](https://www.inquirer.com/soccer/despite-stepping-down-jim-hardy-sets-up-kensington-soccer-club-future-success-20260526.html)* (2026) - Philadelphia Inquirer Story
 
 **1st AC**
  + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024) - Short Film
@@ -28,6 +29,7 @@ description: A Sample of photo and video work done by me.
  + *C-SPAN 250th US Navy Penn event* (2025) - Broadcast
 
 **Cam-Op**
+ + *University of Pennsylvania Commencement* (2026) - Live Event
  + *TV Series Class "Off Campus"* (2024) - Episodic TV
  + *[Un Poco de Mexico](https://www.youtube.com/watch?v=pp5kpagMKlA)* (2025) - Short Film
  + *Those Eyes* (2025) - Short Film
@@ -39,15 +41,16 @@ description: A Sample of photo and video work done by me.
 
  **Production Assistant**
  + *PJM Interconnection Control Room* (2026) - Advertisement
- + *[Cowtown Rodeo: Cowboy Channel](https://www.cowboychannelplus.com/show/966)* (2024) - Live Broadcast
+ + *[Cowtown Rodeo: Cowboy+ Channel](https://www.cowboychannelplus.com/show/966)* (2026) - Live Broadcast
  + *[Cowtown Rodeo: Cowboy Channel](https://www.cowboychannelplus.com/show/966)* (2025) - Live Broadcast
+ + *[Cowtown Rodeo: Cowboy Channel](https://www.cowboychannelplus.com/show/966)* (2024) - Live Broadcast
  + *[Standard Steel X Nippon Steel](https://youtu.be/R5kyxz1uEq4?si=bfvhHtnWDuDA1PAg)* (2024) - Advertisement
  + *USGA Women's Open X Ally Bank* (2024) - Advertisement
  + *[NJ Laborer's Union LiUNA!](https://www.instagram.com/p/C7h1t3lgApj/)* (2024) - Advertisement
 
 
 # Self Directed Works
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1068334083?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="TechServ: A Short Documentary"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1219345525?h=86119f4621" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 [TechServ Documentary Short](https://youtu.be/pJBGbzppBHA?si=xA75sQcagxwT6iEx) available on my YouTube [Samuel Gregg](https://www.youtube.com/@samgregg)
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/880624289?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Super8 Minolta XL400 Test Reel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
